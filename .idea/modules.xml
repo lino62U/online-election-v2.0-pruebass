@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fronted.iml" filepath="$PROJECT_DIR$/fronted.iml" />
       <module fileurl="file://$PROJECT_DIR$/online-election-v2.0.iml" filepath="$PROJECT_DIR$/online-election-v2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proof.iml" filepath="$PROJECT_DIR$/proof.iml" />
     </modules>
   </component>
 </project>
